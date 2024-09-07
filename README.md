@@ -1,4 +1,3 @@
-README.md
 Boomer Shooters: Sua Busca por Jogos Retro, Agora Mais Fácil!
 O que é o Boomer Shooters?
 
