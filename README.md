@@ -35,4 +35,6 @@ Wesley Millan - millanwesley@gmail.com
 
 #boomer #shooters #retro #games #webdev #javascript #html #css
 
-<iframe src="https://giphy.com/embed/xidIeiCtql247U3ngA" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shooter-kur-qag-games-xidIeiCtql247U3ngA">via GIPHY</a></p> alt="Texto Alternativo">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlMTEzc2F6dHo2NmNmZzY1dXhqNGV4dzllMXZ2aWsxeGMzcDhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xidIeiCtql247U3ngA/giphy.webp" alt="Texto Alternativo">
+
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlMTEzc2F6dHo2NmNmZzY1dXhqNGV4dzllMXZ2aWsxeGMzcDhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xidIeiCtql247U3ngA/giphy.webp
