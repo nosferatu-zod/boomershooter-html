@@ -14,7 +14,7 @@ Boomer Shooters é uma aplicação web simples e intuitiva que te ajuda a encont
 **Tecnologias utilizadas:**
 
 * **Frontend:** HTML, CSS e JavaScript puro.
-* **Estrutura de dados:** JSON (para armazenar os dados dos jogos).
+* **Estrutura de dados:** JS (para armazenar os dados dos jogos).
 
 **Como contribuir:**
 
