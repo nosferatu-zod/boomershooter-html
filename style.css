@@ -21,8 +21,8 @@ body {
 
 /* Estiliza os títulos h1 */
 h1 {
-    font-size: 2.5rem; /* Tamanho da fonte */
-    color: #424242; /* Cor do texto */
+    font-size: 3.5rem; /* Tamanho da fonte */
+    color: #ff0000; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
